@@ -1,0 +1,66 @@
+# > Duet
+USER-AGENT,duet*
+
+# > Epic
+DOMAIN-KEYWORD,epicgames
+
+# > Proxy plugin
+PROCESS-NAME,v2ray
+PROCESS-NAME,ss-local
+
+# > UUBooster
+PROCESS-NAME,UUBooster
+
+# > WiFiman
+DOMAIN-SUFFIX,app-measurement.com
+
+# > Xunlei
+USER-AGENT,%E8%BF%85%E9%9B%B7
+DOMAIN-SUFFIX,xunlei.com
+
+# > Download
+PROCESS-NAME,aria2c
+PROCESS-NAME,fdm
+PROCESS-NAME,Folx
+PROCESS-NAME,NetTransport
+PROCESS-NAME,qbittorrent
+PROCESS-NAME,qbittorrent-nox
+PROCESS-NAME,Thunder
+PROCESS-NAME,Transmission
+PROCESS-NAME,uTorrent
+PROCESS-NAME,WebTorrent
+PROCESS-NAME,WebTorrent Helper
+
+# > Private Tracker
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,awesome-hd.me
+DOMAIN-SUFFIX,broadcasthe.net
+DOMAIN-SUFFIX,chdbits.co
+DOMAIN-SUFFIX,classix-unlimited.co.uk
+DOMAIN-SUFFIX,dmhy.best
+DOMAIN-SUFFIX,empornium.me
+DOMAIN-SUFFIX,gazellegames.net
+DOMAIN-SUFFIX,hdchina.org
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,icetorrent.org
+DOMAIN-SUFFIX,jpopsuki.eu
+DOMAIN-SUFFIX,keepfrds.com
+DOMAIN-SUFFIX,madsrevolution.net
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,nanyangpt.com
+DOMAIN-SUFFIX,ncore.cc
+DOMAIN-SUFFIX,open.cd
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,passthepopcorn.me
+DOMAIN-SUFFIX,privatehd.to
+DOMAIN-SUFFIX,redacted.ch
+DOMAIN-SUFFIX,sandai.net
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,tjupt.org
+DOMAIN-SUFFIX,totheglory.im
+
+DOMAIN-SUFFIX,smtp
+URL-REGEX,(Subject|HELO|SMTP)
+
+# > UBI
+DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
