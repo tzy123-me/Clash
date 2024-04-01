@@ -14,10 +14,6 @@ PROCESS-NAME,UUBooster
 # > WiFiman
 DOMAIN-SUFFIX,app-measurement.com
 
-# > Xunlei
-USER-AGENT,%E8%BF%85%E9%9B%B7
-DOMAIN-SUFFIX,xunlei.com
-
 # > Download
 PROCESS-NAME,aria2c
 PROCESS-NAME,fdm
